@@ -6,3 +6,5 @@ I would like to add some other content now:
 This is a senctence to create a conflict with the test branch.
 blah blah blah, I can't make up anything that makes sense.
 Here i can test and test and test
+
+End the file here.
