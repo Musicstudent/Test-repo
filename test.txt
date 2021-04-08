@@ -1,2 +1,4 @@
 This is a simple text file for getting to know git and github.
 With an added sentence to make a second commit.
+I would like to add some other content now:
+blah blah blah, I can't make up anything that makes sense.
