@@ -1,7 +1,8 @@
-This file is now in the development branch to experiment with it.
+This file is now in the test branch to experiment with it.
 
 This is a simple text file for getting to know git and github.
 With an added sentence to make a second commit.
 I would like to add some other content now:
 This is a senctence to create a conflict with the test branch.
 blah blah blah, I can't make up anything that makes sense.
+Here i can test and test and test
